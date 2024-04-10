@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning Computer Science as a final year student \n
-👯 I’m looking to collaborate on with anybody for projects that are interesting! \n
+🌱 I’m currently learning Computer Science as a final year student <br/>
+👯 I’m looking to collaborate on with anybody for projects that are interesting! <br/>
 📫 How to reach me: jovan_n@mail.com
 <!--
 **jovanjoto/jovanjoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
