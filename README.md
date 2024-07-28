@@ -10,9 +10,10 @@
 
 ```javascript
 const jovan = {
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Tailwind, Docker, Flask, FastAPI],
-  hobbies : [Studying, Gym, Coding]
+  languages : [Java, Python, C++, JavaScript],
+  framework : [ReactJS, Flask, FastAPI, TailwindCSS],
+  other : [Docker, PostmanAPI, AWSCloudServices],
+  hobbies : [Studying, Gym, Coding],
   challenge: "To improve and be better everyday"
 }
 ```
