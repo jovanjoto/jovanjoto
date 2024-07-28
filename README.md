@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jovan! </h2>
 <p><em>Final year student at <a href="http://uow.edu.au/">University of Wolonggong</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+, Expected to graduate at October 2024 !</em></p>
 
 [![Linkedin: jovanjoto](https://img.shields.io/badge/-jovanjoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jovanjoto/)](https://www.linkedin.com/in/jovanjoto/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/jovanjoto?label=follow&style=social)](https://github.com/jovanjoto)
